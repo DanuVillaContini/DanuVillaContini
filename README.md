@@ -31,8 +31,3 @@
 - [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/danuvilla//) 
 - [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](daniela.lucia.villa@hotmail.com)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=DanuVillaContini)  
-
-![GitHub metrics](https://metrics.lecoq.io/DanuVillaContini)  
-
-![Profile views](https://gpvc.arturio.dev/DanuVillaContini)  
